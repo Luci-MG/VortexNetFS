@@ -1,4 +1,4 @@
-# VortexNetFS
+# VortexNetFS 🌪️
 
 **VortexNetFS** is a distributed file system built entirely from scratch in Go using low-level TCP networking. It leverages a decentralized architecture with consistent hashing, a distributed hash table (DHT), and a robust replication strategy to ensure scalable, reliable, and fault-tolerant file storage across multiple nodes. VortexNetFS offers flexibility in data distribution, supporting both ring-based and all-to-all topologies.
 
