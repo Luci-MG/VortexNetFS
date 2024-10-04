@@ -1,0 +1,17 @@
+{
+    "nodeId": 1,
+    "address": "localhost:9001",
+    "peers": {
+      "1": "localhost:9001",
+      "2": "localhost:9002",
+      "3": "localhost:9003"
+    },
+    "storagePath": "storage/",
+    "walFilePath": "wal",
+    "logFilePath": "logs/",
+    "isRingTopology": true,
+    "replicationFactor": 3,
+    "heartbeatInterval": 2000,
+    "heartbeatThreshold": 5000
+  }
+  

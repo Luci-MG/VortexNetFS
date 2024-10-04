@@ -1,0 +1,12 @@
+{
+    "nodeId": 2,
+    "address": "localhost:9001",
+    "peers": {
+        "1":"localhost:9000",
+        "2":"localhost:9001"
+    },
+    "storagePath": "storage/node2_storage",
+    "walFilePath": "wal/node2/",
+    "isRingTopology": false
+  }
+  

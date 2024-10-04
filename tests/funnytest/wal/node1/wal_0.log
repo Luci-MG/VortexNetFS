@@ -1,0 +1,7 @@
+{"timestamp":"2024-10-04T13:31:01.413845+05:30","node_id":1,"operation_type":"peer_joined","details":"Node 2 joined the network"}
+{"timestamp":"2024-10-04T13:31:06.419442+05:30","node_id":1,"operation_type":"dht_update","details":"DHT updated for file 385701763535081472"}
+{"timestamp":"2024-10-04T13:31:06.419566+05:30","node_id":1,"operation_type":"file_meta","details":"File metadata for 385701763535081472 updated"}
+{"timestamp":"2024-10-04T13:31:09.428071+05:30","node_id":1,"operation_type":"chunk_saved","details":"Chunk 385701763535081472::0001 successfully saved"}
+{"timestamp":"2024-10-04T13:31:12.427712+05:30","node_id":1,"operation_type":"file_meta_retrieved","details":"File metadata for 385701763535081472 retrieved successfully"}
+{"timestamp":"2024-10-04T13:31:14.42496+05:30","node_id":1,"operation_type":"network_formation","details":"Network formed successfully"}
+{"timestamp":"2024-10-04T13:31:16.446805+05:30","node_id":1,"operation_type":"file_retrieved","details":"File 385701763535081472 retrieved successfully"}

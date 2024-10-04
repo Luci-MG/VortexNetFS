@@ -1,0 +1,3 @@
+{"timestamp":"2024-10-04T13:31:01.414146+05:30","node_id":2,"operation_type":"ack_received","details":"ACK received from Node 1"}
+{"timestamp":"2024-10-04T13:31:06.422884+05:30","node_id":2,"operation_type":"dht_update","details":"DHT updated for file 385701763535081472"}
+{"timestamp":"2024-10-04T13:31:17.469927+05:30","node_id":2,"operation_type":"file_retrieved","details":"File 385701763535081472 retrieved successfully"}
